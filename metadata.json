@@ -1,0 +1,7 @@
+{
+  "name": "AuditEasy: NSS Finance Hub",
+  "description": "Professional NSS accounting system for St. Paul College. Streamlines auditing, generates UC reports, and manages volunteer certificates with institutional branding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
